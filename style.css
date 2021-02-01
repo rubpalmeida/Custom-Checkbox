@@ -27,7 +27,7 @@ input[type="checkbox"] {
 
 input[type="checkbox"]:checked ~ .check {
     background: #fff;
-    box-shadow: 0 0 0 1200px #092C3E;
+    box-shadow: 0 0 0 1000px #092C3E;
 }
 
 .check::before{
